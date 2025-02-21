@@ -1,4 +1,4 @@
-# Equation-Evaluator
+# Infix Form Calculator
 A calculator system that reads, validates, and evaluates equations from an input file.
 
 ## Summary
